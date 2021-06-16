@@ -1,5 +1,5 @@
 # Wasted_Bot_NoN
-Owner of project : NAME: -NoN-#5092 ID: 825375910671810571
+Owner of project : NAME: iCodeJs#5515 ID: 825375910671810571
 
 **Your not allowed to change anything in the source unless you own it, removing the alpha license 2.0 would cause bot problems or even worse.**
 
@@ -14,4 +14,5 @@ Do **not** say your the owner when you aren't.
 A [Sub](https://www.youtube.com/channel/UCm-3B-fE0YywLvgml1q8EBA/) would be amazing.
 Join [My Discord](https://discord.gg/5HfAMjz7Zz) for more code.
 
-Gift me nitro :) 
+Gift me nitro :) lmfao jk
+
